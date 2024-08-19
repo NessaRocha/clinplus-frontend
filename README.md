@@ -1,3 +1,5 @@
+<h1 align="center"> Clin Plus</h1>
+![logo Clin Plus]("C:\pds\clinplus-frontend\src\logo.svg")
 # Sobre Clin Plus
 
 Neste projeto, estamos realizando um sistema web onde facilita e organiza o ambiente clínico de saúde entre profissional e secretária, mais pode ser utilizado também exclusivamente apenas pelo profissional.
@@ -18,3 +20,12 @@ Esse é um dos principais desafios e também melhor ponto de acesso a otimizaç�
 Com as agendas em ordem e recebiveis lançados, se possui um controle de recebíveis e fechamento diário de valores na data, com maior controle financeiro e facilitando uma projeção de melhores datas e períodos de maiores e menores movimentação da agenda.
 # AMBIÇÃO
 Sei que hoje no início do projeto prece ser bem ambicioso todos requisitos e desafiador para um projeto final universitário, mais este é o momento e ciclo que exige justamente estas habilidades e comprovação de qualidade técnica para gerenciar e desenvolver um software com todo conhecimento adquirido.
+# Status do Projeto
+> :construction: Projeto em construção :construction:
+# Desenvolvedora da aplicação
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Vanessa Rocha</sub>](https://github.com/NessaRocha) 
+| :---: | 
+# Orientador do Projeto Final
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Vanessa Rocha</sub>](https://github.com/) 
+| :---: | 
+
