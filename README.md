@@ -24,7 +24,7 @@ Sei que hoje no início do projeto prece ser bem ambicioso todos requisitos e de
 # Status do Projeto
 > :construction: Projeto em construção :construction:
 # Desenvolvedora da aplicação
-| [<img loading="lazy" src="C:\Users\nessa\OneDrive\Área de Trabalho\euooooperfil.png" width=115><br><sub>Vanessa Rocha</sub>](https://github.com/NessaRocha) 
+| [<img loading="lazy" src="linkdfoto.png" width=115><br><sub>Vanessa Rocha</sub>](https://github.com/NessaRocha) 
 | :---: | 
 # Orientador do Projeto Final
 | [<img loading="lazy" src="" width=115><br><sub>Vanessa Rocha</sub>]() 
