@@ -1,5 +1,5 @@
 <h1 align="center"> Clin Plus</h1>
-![logo Clin Plus]("C:\pds\clinplus-frontend\src\logo.svg")
+![logo Clin Plus]("C:\pds\clinplus-frontend\src\logo.svg").
 # Sobre Clin Plus
 
 Neste projeto, estamos realizando um sistema web onde facilita e organiza o ambiente clínico de saúde entre profissional e secretária, mais pode ser utilizado também exclusivamente apenas pelo profissional.
