@@ -1,5 +1,5 @@
 <h1 align="center"> Clin Plus</h1>
-<img align="center"  src="(1.png)" />
+<img   src="(1.png)" />
 &nbsp;&nbsp;&nbsp;
 # Sobre Clin Plus
 
