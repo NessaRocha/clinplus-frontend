@@ -27,6 +27,6 @@ Sei que hoje no início do projeto prece ser bem ambicioso todos requisitos e de
 | [<img loading="lazy" src="linkdfoto.png" width=115><br><sub>Vanessa Rocha</sub>](https://github.com/NessaRocha) 
 | :---: | 
 # Orientador do Projeto Final
-| [<img loading="lazy" src="" width=115><br><sub>Vanessa Rocha</sub>]() 
+| [<img loading="lazy" src="dani.jpeg" width=115><br><sub>Daniel Souza</sub>]() 
 | :---: | 
 
