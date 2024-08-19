@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Sobre Clin Plus
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Neste projeto, estamos realizando um sistema web onde facilita e organiza o ambiente clínico de saúde entre profissional e secretária, mais pode ser utilizado também exclusivamente apenas pelo profissional.
+Ele consta com as seguintes funcionalidades:
+# Login Seguro
+Onde existe verificção de dois fatores, imprescindível para uma aplicação segura, ainda mais se tratando de dados sigilósos de profissionais de saúde e pacientes.
+# Comunicação Efetiva
+Entre proissional de saúde e secretária, há uma comunicação interna no sistema que facilita a organização e prioridades de recados que facilita o gerenciamento das atividades, pois tem-se controle e melhor visibilidade no sistema.
+# Disponibilidade de Documentação
+Neste software foi pensado exclusivamente para profissionais que interessam manter documentação dos pacientes em ambiente seguro, como pareceres de consultas médicas, exames e controle de atividade que exigem salvamento em PDF. Facilidade assim aceso exclusivo do proissional de saúde, pois existe nivel de acesso, por se tratar de documentos que não podem ser expostos para terceiros.
+# Métricas e dados pra ações
+Com os dados atualizados dos pacientes, entre ativos e inativos, este banco de dados de informações que conta com a listagem de clientes, datas de consultas e periodicidade, aniverário do paciente, pode-se obter maior controle e métricas de contato com paciente, lembrando o mesmo da próxima consulta, lembrando da importanciade  se manter com acompanhamento em dia, como sugerir agendamento de consulta.
+Fidelizando assim o paciente e trabalhando de forma mais huminizada como por exemplo mandar mensagens de Feliz Aniversário.
+# Emissão de receitas, atestados e requisições de exames
+O médico terá a otimização de sistema com a integração de certificado digital, para que o mesmo possa emitir dentro do softwre as emissões de receituário e atestados, requisições de exames todos em uma única ferramenta.
+Esse é um dos principais desafios e também melhor ponto de acesso a otimização do software facilidando assim o usuário utilizar o sistema que realmente atenda sua necessiadade.
+# Fechamento de Caixa Diário
+Com as agendas em ordem e recebiveis lançados, se possui um controle de recebíveis e fechamento diário de valores na data, com maior controle financeiro e facilitando uma projeção de melhores datas e períodos de maiores e menores movimentação da agenda.
+# AMBIÇÃO
+Sei que hoje no início do projeto prece ser bem ambicioso todos requisitos e desafiador para um projeto final universitário, mais este é o momento e ciclo que exige justamente estas habilidades e comprovação de qualidade técnica para gerenciar e desenvolver um software com todo conhecimento adquirido.
