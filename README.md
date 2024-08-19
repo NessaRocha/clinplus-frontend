@@ -1,5 +1,5 @@
 <h1 align="center"> Clin Plus</h1>
-<img align="center" style="margin-bottom:100px" width=100% src="Sem nome (logo.svg)" />
+<img align="center" style="margin-bottom:100px" width=100% src="Logo (logo.svg)" />
 &nbsp;&nbsp;&nbsp;
 # Sobre Clin Plus
 
